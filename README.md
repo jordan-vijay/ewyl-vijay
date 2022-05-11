@@ -1,2 +1,5 @@
 # ewyl-vijay
-explore about ewyl
+sece
+mechanical
+20me106
+coimbatore
