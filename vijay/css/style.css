@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 30px;
+    width: 100%;
+    background: dodgerblue;
+}
+h1 {
+    font-size: medium;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
